@@ -1,0 +1,20 @@
+LINKS TO TRAINED MODELS
+
+Half-UNet Model
+https://drive.google.com/drive/folders/1EMMIzLKOCmz-X0k7h39vLGMFYKWmNpZV?usp=sharing
+
+
+Half-UNet Model with Regularization
+https://drive.google.com/drive/folders/1xde_H3RoQHjpQlmtnWR38k0RhZzsulJo?usp=sharing
+
+
+Half-UNet Model with Batch Normalization
+https://drive.google.com/drive/folders/15u4FKyfdc7H6fWsQZdt3MwMmiuZCLdEl?usp=sharing
+
+
+Nested Half-UNet Model
+https://drive.google.com/drive/folders/1nmRh4xoYtFC3Leg7dHG7aoDlCRtQJbeG?usp=sharing
+
+
+UNet Model
+https://drive.google.com/drive/folders/1rgS8z7VZ6ZsMS3OHSyNxWKwGJRi4DoyT?usp=sharing

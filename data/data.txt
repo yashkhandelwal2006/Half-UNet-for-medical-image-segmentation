@@ -1,0 +1,10 @@
+LINKS TO DATASET
+
+MICCAI Left Ventricular MRI Dataset
+https://drive.google.com/drive/folders/1zHoO3kHalijD_-VSYO5OU6tU9r9njw9z?usp=sharing
+
+Testing Set
+https://drive.google.com/drive/folders/1_g0v--1E9BN47D5XPX3fw_MKKLKdEIn0?usp=sharing
+
+Video Demonstration Link
+https://drive.google.com/file/d/1jTBWVq4ohTJpjq3YJi-eT0bIn0l8pQQW/view?usp=sharing
