@@ -26,3 +26,10 @@ some having very few trainable parameters.
 
 ## Evaluation
 ![My Image](data/results.png)
+
+## Project Structure Information
+### data/ - This directory contains links to data and trained weights
+### sources/ - This directory contains research papers implemented / used
+### doc/ - This directory contains implementation details for this project
+### src/ - This directory contains code files for data pre-processing, model training and model evaluation for all the above mentioned models
+
