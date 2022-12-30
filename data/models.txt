@@ -12,7 +12,7 @@ Half-UNet Model with Batch Normalization
 https://drive.google.com/drive/folders/15u4FKyfdc7H6fWsQZdt3MwMmiuZCLdEl?usp=sharing
 
 
-Nested Half-UNet Model
+Nested Half-UNet Model (Best Model)
 https://drive.google.com/drive/folders/1nmRh4xoYtFC3Leg7dHG7aoDlCRtQJbeG?usp=sharing
 
 
