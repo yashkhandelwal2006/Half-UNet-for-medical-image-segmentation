@@ -14,3 +14,6 @@ Furthermore we propose another architecture based on Half-UNet architecture as w
 U^2-Net Architecture which in our testing gave even better results. We compared all these
 models on a single left ventricular MRI dataset and all the models looked equally efficient with
 some having very few trainable parameters.
+
+
+![My Image](data/model_arch.png)
