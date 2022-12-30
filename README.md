@@ -1,6 +1,6 @@
-## Half-UNet
+# Half-UNet
 
-# Problem Statament
+## Problem Statament
 Medical image segmentation plays a vital role in computer-aided diagnosis procedures. The
 main goal of segmenting this data is to identify areas of the anatomy required for a particular
 study or medical diagnosis. U-Net is widely used in medical image segmentation. Many variants
