@@ -15,5 +15,11 @@ U^2-Net Architecture which in our testing gave even better results. We compared 
 models on a single left ventricular MRI dataset and all the models looked equally efficient with
 some having very few trainable parameters.
 
-
+## Proposed Architecture
 ![My Image](data/model_arch.png)
+
+## Results
+![My Image](data/outputs.png)
+
+## Evaluation
+![My Image](data/results.png)
